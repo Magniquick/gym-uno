@@ -1,0 +1,653 @@
+
+
+Aloitetaan! 
+vastustaja0
+Machine: 0
+Machine: 0
+Machine: 0
+vastustaja1
+Machine: 0
+Machine: 0
+Machine: 0
+vastustaja2
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 19
+Machine: 53
+Machine: 26
+Machine: 24
+Machine: 22
+Machine: 22
+Machine: 13
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 11
+Machine: 1
+Machine: 0
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 7
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 8
+Machine: 3
+vastustaja2
+Machine: 0
+Machine: 3
+Machine: 3
+Machine: 19
+Machine: 26
+Machine: 24
+Machine: 22
+Machine: 22
+Machine: 13
+Machine: 34
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 37
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 6
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 7
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 2
+Machine: 3
+Machine: 19
+Machine: 26
+Machine: 24
+Machine: 22
+Machine: 22
+Machine: 13
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 36
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 6
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 2
+Machine: 3
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 22
+Machine: 13
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 41
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 7
+Machine: 3
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 52
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 53
+Machine: 1
+Machine: 1
+Machine: end
+34
+34
+34
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 5
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 5
+Machine: 1
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 33
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 44
+Machine: 0
+Machine: 3
+Machine: end
+34
+34
+34
+vastustaja0
+Machine: 0
+Machine: 7
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 4
+Machine: 3
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 29
+Machine: 18
+Machine: 42
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 41
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+vastustaja0
+Machine: 0
+Machine: 6
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 3
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 3
+Machine: 0
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 18
+Machine: 42
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 12
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 5
+Machine: 3
+vastustaja2
+Machine: 0
+Machine: 7
+Machine: 3
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 18
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 3
+Machine: 33
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 11
+Machine: 0
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 0
+vastustaja2
+Machine: 0
+Machine: 6
+Machine: 0
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 18
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 17
+Machine: 8
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+vastustaja0
+Machine: 0
+Machine: 10
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 3
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 5
+Machine: 1
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 17
+Machine: 45
+Machine: 19
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 9
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 4
+Machine: 2
+Machine: 19
+Machine: 24
+Machine: 22
+Machine: 13
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 45
+Machine: 0
+Machine: 27
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 9
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 2
+Machine: 3
+Machine: 19
+Machine: 22
+Machine: 13
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 45
+Machine: 31
+Machine: 0
+Machine: 36
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 8
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 3
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 1
+Machine: 1
+Machine: 19
+Machine: 22
+Machine: 13
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 45
+Machine: 0
+Machine: 0
+Machine: 11
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 7
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 2
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 3
+Machine: 1
+Machine: 22
+Machine: 13
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 45
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 48
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 6
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 3
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 2
+Machine: 3
+Machine: 22
+Machine: 39
+Machine: 25
+Machine: 2
+Machine: 4
+Machine: 45
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 32
+Machine: 1
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 0
+vastustaja1
+Machine: 0
+Machine: 2
+Machine: 0
+vastustaja2
+Machine: 0
+Machine: 2
+Machine: 3
+Machine: 22
+Machine: 39
+Machine: 25
+Machine: 4
+Machine: 45
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 43
+Machine: 0
+Machine: 3
+Machine: end
+34
+34
+34
+vastustaja0
+Machine: 0
+Machine: 4
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 1
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 2
+Machine: 3
+Machine: 22
+Machine: 39
+Machine: 25
+Machine: 4
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 45
+Machine: 0
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 3
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 2
+Machine: 2
+vastustaja2
+Machine: 0
+Machine: 1
+Machine: 2
+Machine: 22
+Machine: 39
+Machine: 4
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 23
+Machine: 0
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 6
+Machine: 2
+vastustaja1
+Machine: 0
+Machine: 5
+Machine: 3
+vastustaja2
+Machine: 0
+Machine: 6
+Machine: 2
+Machine: 39
+Machine: 4
+Machine: 12
+Machine: 28
+Machine: 14
+Machine: 52
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 30
+Machine: 0
+Machine: 3
+Machine: end
+34
+34
+34
+Machine: noreward
+vastustaja0
+Machine: 0
+Machine: 5
+Machine: 3
+vastustaja1
+Machine: 0
+Machine: 4
+Machine: 1
+vastustaja2
+Machine: 0
+Machine: 5
+Machine: 3
+Machine: 39
+Machine: 4
+Machine: 12
+Machine: 28
+Machine: 14
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 52
+Machine: 0
+Machine: 1
+Machine: end
+34
+34
+34
+vastustaja0
+Machine: 0
+Machine: 4
+Machine: 1
+vastustaja1
+Machine: 0
+Machine: 3
+Machine: 0
+vastustaja2
+Machine: 0
+Machine: 4
+Machine: 1
+Machine: 39
+Machine: 4
+Machine: 12
+Machine: 28
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 0
+Machine: 5
+Machine: 0
+Machine: 1
+Machine: end
