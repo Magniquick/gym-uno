@@ -1,11 +1,12 @@
-import gym
-import pexpect
+import gymnasium as gym
 import numpy as np
-from gym import error, spaces, utils
-from gym.utils import seeding
+import pexpect
+from gymnasium import spaces
+import os
+
 
 class UnoEnv(gym.Env):
-    metadata = {'render.modes': ['human']}
+    metadata = {'render_modes': ['human']}
 
     def __init__(self):
         self.obs = []
@@ -17,13 +18,19 @@ class UnoEnv(gym.Env):
     def step(self, action):
         self.actions(action)
         self.commout()
-        return self.obs, self.reward, self.done, {}
+        terminated = self.done
+        truncated = False  # Set this according to your environment's logic if needed
+        info = {}
+        return self.obs, self.reward, terminated, truncated, info
 
-    def reset(self):
-        self.pext = pexpect.spawn('java -jar uno.jar', encoding='utf-8')
+    def reset(self, *, seed=None, options=None):
+        super().reset(seed=seed)
+        jar_path = os.path.join(os.path.dirname(__file__), 'uno.jar')
+        self.pext = pexpect.spawn(f'java -jar {jar_path}', encoding='utf-8')
         self.done = False
         self.commout()
-        return self.obs
+        info = {}
+        return self.obs, info
 
     def render(self, mode='human', close=False):
         return None
